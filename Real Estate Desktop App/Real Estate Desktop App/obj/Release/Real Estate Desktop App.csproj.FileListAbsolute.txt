@@ -1,0 +1,20 @@
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Release\Real Estate Desktop App.exe.config
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Release\Real Estate Desktop App.exe
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Release\Real Estate Desktop App.pdb
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Release\Com.RealEstate.Component46 v1.0.dll
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Release\Com.RealEstate.Component46 v1.0.pdb
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.AgentDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.AgentDetails.Form2.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.FinancialTransactionDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.InvestmentDetails.Form2.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.ProductDetails.Add_Product.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.ContactDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.InvestmentDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.InvestorDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.MainForm.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.GUI.ProductTransactionDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real_Estate_Desktop_App.Properties.Resources.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real Estate Desktop App.csproj.GenerateResource.Cache
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real Estate Desktop App.exe
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real Estate Desktop App.pdb
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Release\Real Estate Desktop App.csprojResolveAssemblyReference.cache

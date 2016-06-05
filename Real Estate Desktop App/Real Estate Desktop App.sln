@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Real Estate Desktop App", "Real Estate Desktop App\Real Estate Desktop App.csproj", "{FCF3FF4C-4BBA-439F-8B1B-0A540FD28CC9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Com.RealEstate.Component46 v1.0", "..\RealEstate\Com.RealEstate.Component46 v1.0\Com.RealEstate.Component46 v1.0.csproj", "{74DAB947-7E87-4D37-826B-5653E3C4828E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FCF3FF4C-4BBA-439F-8B1B-0A540FD28CC9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCF3FF4C-4BBA-439F-8B1B-0A540FD28CC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCF3FF4C-4BBA-439F-8B1B-0A540FD28CC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCF3FF4C-4BBA-439F-8B1B-0A540FD28CC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74DAB947-7E87-4D37-826B-5653E3C4828E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74DAB947-7E87-4D37-826B-5653E3C4828E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74DAB947-7E87-4D37-826B-5653E3C4828E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74DAB947-7E87-4D37-826B-5653E3C4828E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,17 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+header {
+    background-color: aqua;
+    height:150px;
+}
+
+section {
+    background-color: burlywood;
+}
+
+footer {
+    background-color: chartreuse;
+    height:100px;
+}

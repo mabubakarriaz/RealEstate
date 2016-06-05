@@ -1,0 +1,37 @@
+c:\users\abuba\documents\visual studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Real Estate Desktop App.exe.config
+c:\users\abuba\documents\visual studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Real Estate Desktop App.csprojResolveAssemblyReference.cache
+c:\users\abuba\documents\visual studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Real_Estate_Desktop_App.Properties.Resources.resources
+c:\users\abuba\documents\visual studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Real Estate Desktop App.csproj.GenerateResource.Cache
+c:\users\abuba\documents\visual studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Real Estate Desktop App.exe
+c:\users\abuba\documents\visual studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Real Estate Desktop App.pdb
+c:\users\abuba\documents\visual studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Real Estate Desktop App.exe
+c:\users\abuba\documents\visual studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Real Estate Desktop App.pdb
+C:\Users\abuba\Documents\Visual Studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Real_Estate_Desktop_App.GUI.Contacts_Form.resources
+C:\Users\abuba\Documents\Visual Studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.Component46 v1.0.dll
+C:\Users\abuba\Documents\Visual Studio 2015\Projects\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.Component46 v1.0.pdb
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.Component46 v1.0.dll
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.Component46 v1.0.pdb
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Real Estate Desktop App.csproj.GenerateResource.Cache
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.DesktopApp46 v1.0.exe.config
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.AgentDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.AgentDetails.Form2.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.ContactDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.Properties.Resources.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.FinancialTransactionDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.InvestmentDetails.Form2.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.ProductDetails.Add_Product.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.InvestmentDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.InvestorDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.MainForm.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.ProductTransactionDetails.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.Reports.Form1.resources
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.DesktopApp46 v1.0.exe.manifest
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.DesktopApp46 v1.0.application
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.DesktopApp46 v1.0.exe
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\bin\Debug\Com.RealEstate.DesktopApp46 v1.0.pdb
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp46 v1.0.exe.manifest
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp46 v1.0.application
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp46 v1.0.exe
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp46 v1.0.pdb
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Real Estate Desktop App.csprojResolveAssemblyReference.cache
+E:\Real Estate\Real Estate Desktop App\Real Estate Desktop App\obj\Debug\Com.RealEstate.DesktopApp.GUI.CommissionDetails.Form1.resources
