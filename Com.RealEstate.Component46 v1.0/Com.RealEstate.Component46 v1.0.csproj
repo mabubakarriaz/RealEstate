@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{74DAB947-7E87-4D37-826B-5653E3C4828E}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Com.RealEstate.Component</RootNamespace>
+    <AssemblyName>Com.RealEstate.Component46 v1.0</AssemblyName>
+    <TargetFrameworkVersion>v4.6</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataHelper\AgentDataHelper.cs" />
+    <Compile Include="DataHelper\AgentGroupDataHelper.cs" />
+    <Compile Include="DataHelper\AgentGroupDetailDataHelper.cs" />
+    <Compile Include="DataHelper\ContactDataHelper.cs" />
+    <Compile Include="DataHelper\DealDataHelper.cs" />
+    <Compile Include="DataHelper\FinancialTransactionDataHelper.cs" />
+    <Compile Include="DataHelper\InvestmentGroupDataHelper.cs" />
+    <Compile Include="DataHelper\InvestmentGroupDetailDataHelper.cs" />
+    <Compile Include="DataHelper\InvestorDataHelper.cs" />
+    <Compile Include="DataHelper\ProductDataHelper.cs" />
+    <Compile Include="DataHelper\ProductTransactionDataHelper.cs" />
+    <Compile Include="Data\ConnectionString.cs" />
+    <Compile Include="Data\ICOQL.cs" />
+    <Compile Include="Data\IDML.cs" />
+    <Compile Include="Data\IListView.cs" />
+    <Compile Include="Data\QueryExecute.cs" />
+    <Compile Include="Documents\Transfer.cs" />
+    <Compile Include="Entity\Agent.cs" />
+    <Compile Include="Entity\AgentGroup.cs" />
+    <Compile Include="Entity\AgentGroupDetail.cs" />
+    <Compile Include="Entity\AgentType.cs" />
+    <Compile Include="Entity\AmountType.cs" />
+    <Compile Include="Entity\Commission.cs" />
+    <Compile Include="Entity\Contact.cs" />
+    <Compile Include="Entity\Deal.cs" />
+    <Compile Include="Entity\DeductionType.cs" />
+    <Compile Include="Entity\EntityClass.cs" />
+    <Compile Include="Entity\EntityType.cs" />
+    <Compile Include="Entity\FinancialTransaction.cs" />
+    <Compile Include="Entity\FlowType.cs" />
+    <Compile Include="Entity\GroupType.cs" />
+    <Compile Include="Entity\Investment.cs" />
+    <Compile Include="Entity\InvestmentGroup.cs" />
+    <Compile Include="Entity\InvestmentGroupDetail.cs" />
+    <Compile Include="Entity\Investor.cs" />
+    <Compile Include="Entity\Product.cs" />
+    <Compile Include="Entity\ProductTransaction.cs" />
+    <Compile Include="Entity\ProductTransactionType.cs" />
+    <Compile Include="Entity\RatioType.cs" />
+    <Compile Include="Entity\TransactionType.cs" />
+    <Compile Include="Entity\WalletType.cs" />
+    <Compile Include="Exceptions\DataEntryExistence.cs" />
+    <Compile Include="Exceptions\DataExistence.cs" />
+    <Compile Include="ExtensionMethods\UtilityExtension.cs" />
+    <Compile Include="DataHelper\InvestmentDataHelper.cs" />
+    <Compile Include="Entity\EntityState.cs" />
+    <Compile Include="Handler\AgentGroupDetailHandler.cs" />
+    <Compile Include="Handler\AgentGroupHandler.cs" />
+    <Compile Include="Handler\AgentHandler.cs" />
+    <Compile Include="Handler\ContactHandler.cs" />
+    <Compile Include="Handler\DealHandler.cs" />
+    <Compile Include="Handler\FinancialTransactionHandler.cs" />
+    <Compile Include="Handler\InvestmentGroupDetailHandler.cs" />
+    <Compile Include="Handler\InvestmentGroupHandler.cs" />
+    <Compile Include="Handler\InvestmentHandler.cs" />
+    <Compile Include="Handler\InvestorHandler.cs" />
+    <Compile Include="Handler\ProductHandler.cs" />
+    <Compile Include="Handler\ProductTransactionHandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Security\PasswordEncoder.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Objects\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
